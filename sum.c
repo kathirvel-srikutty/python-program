@@ -6,10 +6,8 @@ int main()
 
     for(i=1; i <= n; ++i)
     {
-        sum += i;   // sum = sum+i;
+      sum += i;  
     }
-
     printf("Sum = %d",sum);
-
     return 0;
 }
